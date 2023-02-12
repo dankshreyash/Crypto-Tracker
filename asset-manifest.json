@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/Crypto-Tracker/static/js/main.513c67b0.js",
-    "static/media/crypto.png": "/Crypto-Tracker/static/media/crypto.f51c93861b1d4534bd69.png",
+    "main.js": "/Crypto-Tracker/static/js/main.347eaf42.js",
+    "static/media/coin-removebg-preview.png": "/Crypto-Tracker/static/media/coin-removebg-preview.b35f72df80a2d991252c.png",
     "index.html": "/Crypto-Tracker/index.html",
-    "main.513c67b0.js.map": "/Crypto-Tracker/static/js/main.513c67b0.js.map"
+    "main.347eaf42.js.map": "/Crypto-Tracker/static/js/main.347eaf42.js.map"
   },
   "entrypoints": [
-    "static/js/main.513c67b0.js"
+    "static/js/main.347eaf42.js"
   ]
 }
